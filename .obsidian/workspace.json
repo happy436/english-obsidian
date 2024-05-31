@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🙂Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🙂Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🙂Welcome.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🙂Welcome.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "dc1b6b35a83f7906",
   "lastOpenFiles": [
+    "🙂Welcome.md",
     "Rules/Articles.md",
     "Tenses/⏳Tenses.md",
-    "📕README.md",
-    "🙂Welcome.md",
+    "README.md",
     "Words/🏢Work and Career Actions.md",
     "Words/📑Words.md",
     "Words/📑Trait.md",

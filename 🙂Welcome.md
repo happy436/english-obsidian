@@ -1,4 +1,4 @@
-[[📕README]]
+[[README]]
 ## **[[⏳Tenses]]** 
 ## [[📑Words]]
 [[😊Appearance]]
