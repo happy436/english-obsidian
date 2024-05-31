@@ -1,0 +1,20 @@
+cat - кішка
+dog - пес
+Elephant - слон
+Lion - лев
+Tiger - тигр
+Bear - ведмідь
+Wolf - вовк
+Fox - лисиця
+Deer - олень
+ Rabbit - кролик
+Squirrel - білка
+Giraffe - жирафа
+Zebra - зебра
+Kangaroo - кенгуру
+Penguin - пінгвін
+Dolphin - дельфін
+Shark - акула
+Eagle - орел
+Owl - сова
+Frog - жаба

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d24ebe1d537a270b",
+        "id": "eea943fadbc651ba",
         "type": "tabs",
         "children": [
           {
-            "id": "036703794d906636",
+            "id": "dc1b6b35a83f7906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Articles.md",
+                "file": "🙂Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 213.5
   },
   "right": {
     "id": "092b69c4661764d1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Articles.md",
+                "file": "🙂Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Articles.md",
+                "file": "🙂Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Articles.md"
+                "file": "🙂Welcome.md"
               }
             }
           }
@@ -139,47 +139,49 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "036703794d906636",
+  "active": "dc1b6b35a83f7906",
   "lastOpenFiles": [
-    "Rules/Stative verbs.md",
     "Rules/Articles.md",
-    "Welcome.md",
-    "Rules",
+    "Tenses/⏳Tenses.md",
+    "📕README.md",
+    "🙂Welcome.md",
+    "Words/🏢Work and Career Actions.md",
+    "Words/📑Words.md",
+    "Words/📑Trait.md",
+    "Words/🏓Sport.md",
+    "Words/🤔Imagination and Thinking.md",
+    "Words/😊Appearance.md",
+    "Words/😺Animals.md",
+    "Untitled.canvas",
+    "2024-05-31.md",
+    "Tenses/Continuous/Continuous.md",
+    "Tenses/Perfect/Perfect.md",
+    "Tenses/Simple/Simple.md",
+    "Tenses/Perfect Continuous/Perfect Continuous.md",
     "Tenses/Continuous/Present Continuous.md",
-    "Expression/Expression.md",
     "Tenses/Simple/Present Simple.md",
-    "Words/Trait.md",
-    "Tenses/Simple/Past Simple.md",
+    "Rules/Gerund.md",
+    "Rules/Stative verbs.md",
+    "Expression/Expression.md",
     "Tenses/Simple/Future Simple.md",
-    "Words/Appearance.md",
-    "Words/Words.md",
-    "README.md",
+    "Tenses/Simple/Past Simple.md",
+    "Rules",
     "Expression",
-    "Tenses/Tenses.md",
     "Cat.md",
     "^^He^^.md",
-    "Untitled.canvas",
     "Words",
-    "Tenses/Perfect Continuous/Present Perfect Continuous.md",
-    "Tenses/Perfect Continuous/Past Perfect Continuous.md",
-    "Tenses/Perfect Continuous/Future Perfect Continuous.md",
     "Tenses/Perfect Continuous",
     "Tenses/Perfect",
-    "Tenses/Perfect/Past Perfect.md",
-    "Tenses/Perfect/Present Perfect.md",
-    "Tenses/Continuous/Future Continuous.md",
-    "Tenses/Perfect/Future Perfect.md",
     "Tenses/Continuous",
-    "Tenses/Continuous/Past Continuous.md",
     "Tenses/Simple",
-    "Tenses",
-    "create a link.md"
+    "Tenses"
   ]
 }
