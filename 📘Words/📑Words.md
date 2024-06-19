@@ -1,3 +1,13 @@
+## Categories
+[[😊Appearance]]
+[[📑Trait]]
+[[😺Animals]]
+[[Expression]]
+[[🏢Work and Career Actions]]
+[[🤔Imagination and Thinking]]
+[[🏓Sport]]
+
+## Dictionary
 [[🏢Work and Career Actions]] - праця та карьерні дії
 [[🏓Sport]] - спорт
 [[🤔Imagination and Thinking]] - уява та мислення
@@ -12,3 +22,6 @@ know - знати
 everything - все
 childhood - дитинство
 goal - ціль
+widespread - расповсюджено
+attend - відвідувати (щось, а не когось)
+visit - відвідувати (когось)
