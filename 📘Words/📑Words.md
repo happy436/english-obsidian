@@ -25,3 +25,7 @@ goal - ціль
 widespread - расповсюджено
 attend - відвідувати (щось, а не когось)
 visit - відвідувати (когось)
+another - Другой (for one)
+other - другие
+on time - вчасно
+in time - заздалегідь

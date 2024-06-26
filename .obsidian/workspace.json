@@ -11,8 +11,12 @@
             "id": "cd0bd36bb9e482ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📘Words/📑Trait.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📘Words/📑Trait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📘Words/📑Trait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📘Words/📑Trait.md"
+              }
             }
           }
         ]
@@ -141,32 +149,32 @@
   },
   "active": "cd0bd36bb9e482ea",
   "lastOpenFiles": [
+    "📘Words/📑Words.md",
+    "📘Words/📑Trait.md",
+    "📘Words/🤔Imagination and Thinking.md",
+    "📘Words/😺Animals.md",
+    "📘Words/😊Appearance.md",
+    "⏳Tenses/Continuous/Present Continuous.md",
+    "⏳Tenses/Continuous/Past Continuous.md",
+    "⏳Tenses/Continuous/Future Continuous.md",
+    "⏳Tenses/Continuous/Continuous.md",
+    "⏳Tenses/Perfect/Future Perfect.md",
+    "⏳Tenses/Perfect/Past Perfect.md",
+    "⏳Tenses/Perfect/Perfect.md",
+    "⏳Tenses/Perfect/Present Perfect.md",
+    "⏳Tenses/Perfect Continuous/Future Perfect Continuous.md",
+    "⏳Tenses/Perfect Continuous/Past Perfect Continuous.md",
+    "⏳Tenses/Perfect Continuous/Perfect Continuous.md",
+    "⏳Tenses/Perfect Continuous/Present Perfect Continuous.md",
     "⏳Tenses/Simple/Future Simple.md",
+    "⏳Tenses/Simple/Past Simple.md",
+    "⏳Tenses/Simple/Present Simple.md",
+    "⏳Tenses/Simple/Simple.md",
     "🚨Rules/🚨Rules.md",
     "🚨Rules/Talking about your expiriences.md",
-    "⏳Tenses/Simple/Present Simple.md",
-    "⏳Tenses/Continuous/Present Continuous.md",
-    "📘Words/📑Trait.md",
     "🙂Welcome.md",
     "README.md",
-    "📘Words/😊Appearance.md",
-    "📘Words/😺Animals.md",
     "🚨Rules/Stative verbs.md",
-    "🚨Rules/May or might.md",
-    "🚨Rules/Gerund.md",
-    "🚨Rules/Articles.md",
-    "📘Words/🏢Work and Career Actions.md",
-    "📘Words/📑Words.md",
-    "⏳Tenses/Continuous/Continuous.md",
-    "⏳Tenses/Continuous/Future Continuous.md",
-    "⏳Tenses/Continuous/Past Continuous.md",
-    "⏳Tenses/⏳Tenses.md",
-    "⏳Tenses/Perfect Continuous/Present Perfect Continuous.md",
-    "⏳Tenses/Perfect Continuous/Perfect Continuous.md",
-    "⏳Tenses/Perfect Continuous/Past Perfect Continuous.md",
-    "⏳Tenses/Perfect Continuous/Future Perfect Continuous.md",
-    "⏳Tenses/Perfect/Present Perfect.md",
-    "⏳Tenses/Perfect/Perfect.md",
     "Untitled.canvas",
     "🚨Rules",
     "📙Expression",

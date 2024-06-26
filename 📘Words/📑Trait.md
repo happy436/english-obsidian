@@ -17,3 +17,4 @@ with a sense of humor - з відчуттям хумору (telling funny jokes)
 patient - терпіливий (calm when he has to wait for something)
 impatiant - не терпіливий (nervous when he has to wait for something)
 curious - любознавчий (always wants to know everything)
+inquisitive - допитливий
