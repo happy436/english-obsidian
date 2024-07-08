@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📘Words/📑Trait.md",
+                "file": "📘Words/📑Words.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📘Words/📑Trait.md",
+                "file": "📘Words/📑Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📘Words/📑Trait.md",
+                "file": "📘Words/📑Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📘Words/📑Trait.md"
+                "file": "📘Words/📑Words.md"
               }
             }
           }
@@ -149,7 +149,9 @@
   },
   "active": "cd0bd36bb9e482ea",
   "lastOpenFiles": [
+    "⏳Tenses/Simple/Present Simple.md",
     "📘Words/📑Words.md",
+    "⏳Tenses/Simple/Past Simple.md",
     "📘Words/📑Trait.md",
     "📘Words/🤔Imagination and Thinking.md",
     "📘Words/😺Animals.md",
@@ -167,8 +169,6 @@
     "⏳Tenses/Perfect Continuous/Perfect Continuous.md",
     "⏳Tenses/Perfect Continuous/Present Perfect Continuous.md",
     "⏳Tenses/Simple/Future Simple.md",
-    "⏳Tenses/Simple/Past Simple.md",
-    "⏳Tenses/Simple/Present Simple.md",
     "⏳Tenses/Simple/Simple.md",
     "🚨Rules/🚨Rules.md",
     "🚨Rules/Talking about your expiriences.md",

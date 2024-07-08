@@ -29,3 +29,9 @@ another - Другой (for one)
 other - другие
 on time - вчасно
 in time - заздалегідь
+possession - володіння
+purpose - мета
+on purpose - навмисно
+deliberately - свідомо
+tear - порвано
+kettle - чайник
